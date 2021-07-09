@@ -60,6 +60,22 @@ SyntaxError: You found it!
 ```
 Note: This will work only in 3.9 and will be removed in 3.10 along with the LL(1) parser with the introduction of the new PEG parser.
 
+### 8. types.CodeType - Not for the faint of heart
+```py
+>>> import types
+>>> help(types.CodeType)
+Help on class code in module builtins:                                                    
+                                                                                          
+class code(object)                                                                        
+ |  code(argcount, kwonlyargcount, nlocals, stacksize, flags, codestring,                 
+ |        constants, names, varnames, filename, name, firstlineno,                        
+ |        lnotab[, freevars[, cellvars]])                                                 
+ |                                                                                        
+ |  Create a code object.  Not for the faint of heart.                                    
+ |                                                                                        
+ |  Methods defined here:                                                                 
+ |                                              
+
 ## Command Line
 
 ### 1. CLI month calendar
