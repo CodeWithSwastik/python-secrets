@@ -50,6 +50,15 @@ SyntaxError: with Barry as BDFL, use '<>' instead of '!='
 >>> 1 <> 3
 True
 ```
+### 7. New parser?
+```py
+>>> __peg_parser__
+  File "<stdin>", line 1
+    __peg_parser__
+    ^
+SyntaxError: You found it!
+```
+Note: This will work only in 3.9 and will be removed in 3.10 along with the LL(1) parser with the introduction of the new PEG parser.
 
 ## Command Line
 
