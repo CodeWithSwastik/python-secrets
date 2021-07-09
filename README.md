@@ -34,6 +34,23 @@ SyntaxError: not a chance
 0
 ```
 
+### 5. Antigravity
+```py
+import antigravity
+```
+
+### 6. Friendly Language Uncle For Life
+```py
+>>> from __future__ import barry_as_FLUFL
+>>> 1 != 3
+  File "<stdin>", line 1
+    1 != 3
+       ^
+SyntaxError: with Barry as BDFL, use '<>' instead of '!='
+>>> 1 <> 3
+True
+```
+
 ## Command Line
 
 ### 1. CLI month calendar
