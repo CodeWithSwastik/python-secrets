@@ -75,7 +75,7 @@ class code(object)
  |                                                                                        
  |  Methods defined here:                                                                 
  |                                              
-
+```
 ## Command Line
 
 ### 1. CLI month calendar
