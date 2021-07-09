@@ -26,7 +26,7 @@ from __future__ import braces
 SyntaxError: not a chance
 ```
 
-### 4. Hash of Infinity
+### 4. InPynite?
 ```py
 >>> hash(float('inf'))
 314159
