@@ -39,7 +39,14 @@ SyntaxError: not a chance
 import antigravity
 ```
 
-### 6. Friendly Language Uncle For Life
+### 6. Random coordinates
+```py
+>>> from antigravity import geohash
+>>> print(geohash(37.421542, -122.085589, b'2005-05-26-10458.68'))
+# 37.857713 -122.544543
+```
+
+### 7. Friendly Language Uncle For Life
 ```py
 >>> from __future__ import barry_as_FLUFL
 >>> 1 != 3
@@ -50,7 +57,7 @@ SyntaxError: with Barry as BDFL, use '<>' instead of '!='
 >>> 1 <> 3
 True
 ```
-### 7. New parser?
+### 8. New parser?
 ```py
 >>> __peg_parser__
   File "<stdin>", line 1
@@ -60,7 +67,7 @@ SyntaxError: You found it!
 ```
 Note: This will work only in 3.9 and will be removed in 3.10 along with the LL(1) parser with the introduction of the new PEG parser.
 
-### 8. Not for the faint of heart
+### 9. Not for the faint of heart
 ```py
 >>> import types
 >>> help(types.CodeType)                                          
