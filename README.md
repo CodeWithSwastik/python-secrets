@@ -94,7 +94,7 @@ Traceback (most recent call last):
 TypeError: type 'bool' is not an acceptable base type
 ```
 
-### 2. What?
+### 2. Oxford 15
 ```py
 >>> 0xfor-d 
 15
