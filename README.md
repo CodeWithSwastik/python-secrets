@@ -94,6 +94,12 @@ Traceback (most recent call last):
 TypeError: type 'bool' is not an acceptable base type
 ```
 
+### 2. What?
+```py
+>>> 0xfor-d 
+15
+```
+
 ## Misc.
 
 ### 1. If statement without using an if
