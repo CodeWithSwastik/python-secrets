@@ -81,6 +81,17 @@ python -m "calendar" 2021 7
 ``` 
 For options: `python -m "calendar" --help`
 
+## Did you know?
+
+### 1. You can't subclass bool
+```py
+>>> class subclass_of_bool(bool):
+...   pass
+...
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: type 'bool' is not an acceptable base type
+```
 
 ## Misc.
 
