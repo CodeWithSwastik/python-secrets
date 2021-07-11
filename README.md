@@ -100,7 +100,7 @@ Now try tipping the 0xfedor-a 🎩
 area = π * r ** 2
 ```
 
-### 4. Plain ints
+### 4. Longs
 
 ```py
 >>> p = 256
