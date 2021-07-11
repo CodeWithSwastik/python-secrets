@@ -39,6 +39,15 @@ SyntaxError: not a chance
 import antigravity
 ```
 
+Another easter egg:
+
+```
+>>> from antigravity import geohash
+>>> # Your location, a date and that date's (or most recent) DJIA opening.
+>>> geohash(37.421542, -122.085589, b'2005-05-26-10458.68')
+37.857713 -122.544543
+```
+
 ### 6. Random coordinates
 ```py
 >>> from antigravity import geohash
