@@ -100,6 +100,8 @@ TypeError: type 'bool' is not an acceptable base type
 15
 ```
 
+Now try tipping the 0xfedor-a 🎩
+
 ### 3. Unicode identifiers
 ```py
 π = 3.1415
