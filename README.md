@@ -96,7 +96,7 @@ TypeError: type 'bool' is not an acceptable base type
 
 ### 2. Oxford 15
 ```
->>> 0xfor-d
+>>> 0xfor~d
 15
 ```
 
