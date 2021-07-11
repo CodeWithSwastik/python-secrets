@@ -5,6 +5,7 @@ Curated list of all the hidden jokes, easter eggs and secrets in Python
 ## Table of Contents
 - [Easter Eggs](#easter-eggs)
 - [Command Line](#command-line)
+- [Did you know?](#did-you-know)
 - [Misc.](#misc)
 
 ## Easter Eggs
