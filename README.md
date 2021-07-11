@@ -5,7 +5,7 @@ Curated list of all the hidden jokes, easter eggs and secrets in Python
 ## Table of Contents
 - [Easter Eggs](#easter-eggs)
 - [Command Line](#command-line)
-
+- [Misc.](#misc)
 
 ## Easter Eggs
 
@@ -82,4 +82,26 @@ python -m "calendar" 2021 7
 For options: `python -m "calendar" --help`
 
 
+## Misc.
 
+### 1. If statement without using an if
+```py
+# 1 condition
+['cond1 is false', 'cond1 is true'][cond1]
+
+# 2 conditions
+['both false', 'cond1 is true', 'cond2 is true', 'both true'][2*cond2 + cond1]
+```
+
+### 2. For loop without using for, while
+```py
+def loop(array):
+  if len(array) == 0:
+    return 0
+  else: 
+    # do smth with array[0] for example print(array[0])
+    print(array[0])
+    return loop(array[1:])
+
+loop([1,2,3,'a string'])
+```
