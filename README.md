@@ -100,6 +100,12 @@ TypeError: type 'bool' is not an acceptable base type
 15
 ```
 
+### 3. Unicode identifiers
+```py
+π = 3.1415
+area = π * r ** 2
+```
+
 ## Misc.
 
 ### 1. If statement without using an if
