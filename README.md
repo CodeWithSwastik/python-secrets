@@ -73,6 +73,15 @@ Note: This will work only in 3.9 and will be removed in 3.10 along with the LL(1
 >>> help(types.CodeType)                                          
 ```
 
+### 10. Among Us SUS?
+AMONG 😳 US 🅱️ IN 😱 REAL 😵 LIFE 💩 SUS 📮 SUS
+AMONG 😳 US 🅱️ IN 😱 REAL 😵 LIFE 💩 SUS 📮 SUS
+PLAYING 🐈 AMONG 💀 US 😡 IN 🤗 REAL 🤠 LIFE
+SPACESHIP 🚀 WITH 👾 MY 👅 CREW
+GOTTA 🥷🏿 SPLIT 😚 UP 🤡 SPREAD ⁉️ OUT 📮CUZ 😃 WE 😋 ALL 😐 GOT 😯 TASKS 👻 TO 👽 DO
+GOTTA 👿 FIND 👺 THE 🤧 IMPOSTER 🤫 AS 👀 THEY 🛖 TRY 🗿 TO 🛶 SA🅱️OTAGE
+WHO 📮CAN 🅱️ WE 🇫🇷 TRUST 😂 IN 🤪 THIS 🤯 AMONG 🤭 US 🤣 ENTOURAGE.
+
 ## Command Line
 
 ### 1. CLI month calendar
