@@ -100,6 +100,19 @@ Now try tipping the 0xfedor-a 🎩
 area = π * r ** 2
 ```
 
+### 4. Plain ints
+
+```py
+>>> p = 256
+>>> q = 256
+>>> p is q
+True
+>>> p = 257
+>>> q = 257
+>>> p is q
+False
+```
+
 ### 4.CLI month calendar
 
 ```bash
