@@ -1,5 +1,5 @@
 # Python Secrets
-Curated list of all the hidden jokes, easter eggs and secrets in Python
+Curated list of all the hidden jokes, easter eggs, secrets and the lesser known things in Python
 
 
 ## Table of Contents
