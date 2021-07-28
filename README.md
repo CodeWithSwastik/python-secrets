@@ -144,3 +144,11 @@ def loop(array):
 
 loop([1,2,3,'a string'])
 ```
+### 3. logarithm without math.log
+```py
+def Log(x, base):
+    if x < base:
+        return 0  
+    return 1 + myLog(x/base, base)
+Log(16,2) # 4
+```
