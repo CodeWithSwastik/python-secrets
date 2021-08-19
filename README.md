@@ -5,7 +5,6 @@ Curated list of all the hidden jokes, easter eggs, secrets and the lesser known 
 ## Table of Contents
 - [Did you know?](#did-you-know)
 - [Easter Eggs](#easter-eggs)
-- [Misc.](#misc)
 
 
 ## Did you know?
@@ -118,29 +117,4 @@ Note: This will work only in 3.9 and will be removed in 3.10 along with the LL(1
 ```py
 >>> import types
 >>> help(types.CodeType)                                          
-```
-
-
-## Misc.
-
-### 1. If statement without using an if
-```py
-# 1 condition
-['cond1 is false', 'cond1 is true'][cond1]
-
-# 2 conditions
-['both false', 'cond1 is true', 'cond2 is true', 'both true'][2*cond2 + cond1]
-```
-
-### 2. For loop without using for, while
-```py
-def loop(array):
-  if len(array) == 0:
-    return 0
-  else: 
-    # do smth with array[0] for example print(array[0])
-    print(array[0])
-    return loop(array[1:])
-
-loop([1,2,3,'a string'])
 ```
